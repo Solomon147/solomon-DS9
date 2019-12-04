@@ -1,5 +1,5 @@
 """
-Making a function to keep track of our dog's age
+Making a function to keep track of our dogs age
 """
 
 class Dog:
