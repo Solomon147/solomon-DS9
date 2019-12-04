@@ -13,7 +13,7 @@ class mathematics():
   
 
 
-  def mean(list):
+  def mean(self):
     return (sum(list)/len(list))
     
     
