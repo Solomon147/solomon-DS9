@@ -1,7 +1,21 @@
 """
+My utility function has a double function
 """
 
+import numpy as np
+import pandas as pd
 
-def to_go_home():
-    pass
+
+class mathematics():
     
+    
+    
+  
+
+
+  def mean(list):
+    return (sum(list)/len(list))
+    
+    
+  def double(x):
+    return (x*2)

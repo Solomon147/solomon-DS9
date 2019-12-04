@@ -1,5 +1,5 @@
 """
-
+This function is updated
 """
 import solomon_DS9.utility_function
 
